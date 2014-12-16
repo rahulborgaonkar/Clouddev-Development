@@ -6,4 +6,5 @@ public class TestClassForCI
 		system.debug('Test');
 	}
 	// comment
+	// comment 2
 }
