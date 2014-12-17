@@ -5,5 +5,5 @@ public class TestClassForCI
 	{
 		system.debug('Test');
 	}
-	// new comment added
+	// new comment added again
 }
